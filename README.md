@@ -1,3 +1,3 @@
 # GitHub-Learning
 This is my first repository <br>
-Author: Amit Roy
+Author: Amit Roy Antu
